@@ -36,7 +36,7 @@ import seaborn as sn
 
 #Loading the data set - training data.
 #you can load your own training data set if you have one.
-train = pd.read_csv("/content/trainingdata1995_686+klsh+640sentiv.csv")
+train = pd.read_csv("/content/trainingdata.csv")
 train_x = train['Message'].tolist()
 train_y = train['Category'].tolist()
 
