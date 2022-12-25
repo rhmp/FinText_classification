@@ -1,9 +1,9 @@
 # FinText_classification
-Financial text classification using pre trained transformers
+Financial text classification
 
 Every day thousands of financial news articles and blogs are published on the internet.
-These articles contain valuable information and insights for business companies and in-
-dividuals, especially those who are interested in the stock market. We are definitely not
+These articles contain valuable information and insights for business companies and individuals,
+especially those who are interested in the stock market. We are definitely not
 interested in all of the published articles, and practically it is not feasible to go through
 every one of them to choose the interesting articles. So to make use of this data, we 
 need to identify and sort out valuable information in it. This is precisely what we are trying
